@@ -1,2 +1,2 @@
 
-![Preview of product list 1](https://raw.githubusercontent.com/milon87/Ready-XML-UI-Android/master/Ready-XML-UI-Android/ListItem/product_list_1.png)
+![Preview of product list 1](product_list_1.png)
